@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* @plugin "tailwindcss-animate";
+@plugin "tailwindcss-animate";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -331,4 +331,4 @@
     opacity: 1;
     transform: translateY(0);
   }
-} */
+}
